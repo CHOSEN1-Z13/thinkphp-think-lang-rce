@@ -32,7 +32,7 @@ python3 thinkphp-think-lang-rce.py -u url 单个url测试
 python3 thinkphp-think-lang-rce.py -f url.txt 多个url测试
 ```
 
-![image-20221215132905019](https://user-images.githubusercontent.com/95468200/207787633-8ae1c488-821e-4183-9457-3465010e0581.png)
+![image-20221215132905019](.resource/Thinkphp-think-lang-rce/media/image-20221215132905019.png)
 
 ### 修复建议：
 
